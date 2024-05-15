@@ -5,3 +5,8 @@ Structure actuelle:
 - Docs: Demandes d'accès à l'information
 - Data: Données RAW ou PROCESSED
 - Output: Résultats des scripts, PNG, etc.
+
+# 1er analyse: Comparaison de la gravité des accidents par type de véhicules
+Fichiers Associés:
+-  output/graph_type_vehicule.png
+-  scripts/comparaison_par_type.py
