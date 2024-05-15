@@ -4,3 +4,4 @@ Structure actuelle:
 - Scripts: Les fichiers python
 - Docs: Demandes d'accès à l'information
 - Data: Données RAW ou PROCESSED
+- Output: Résultats des scripts, PNG, etc.
